@@ -12,6 +12,7 @@ Guest:
 * Get information of parking places in our city
 * Read advertisement
 * Visit third party website
+
 User:
 
 * The second to the last functions of guest
